@@ -5,7 +5,7 @@ This README covers the AI component of the Smart Library project. The project is
 
 ## Backend
 
-The backend of the AI component is located in the `smart-library` folder and consists of several key modules.
+The backend of the AI component is located in the `smart-bookstore` folder and consists of several key modules.
 
 ### Modules
 
