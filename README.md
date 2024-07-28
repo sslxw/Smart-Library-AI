@@ -30,7 +30,7 @@ This module includes the Pydantic schemas needed for the chat API.
 This file defines the API routes for the chat functionalities.
 
 ### Running the Backend
-To start the backend server, you need to use Poetry. Navigate to the `smart-library` directory and run the following commands:
+To start the backend server, you need to use Poetry. Navigate to the `smart-bookstore` directory and run the following commands:
 
 1. **Install the dependencies:**
 
